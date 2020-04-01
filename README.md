@@ -1,7 +1,6 @@
 # 2019JavaStudayCode
 2019级java培训代码仓库
 
-package com.guikai.a.Snake;
 
 import javax.swing.*;
 import java.net.URL;
